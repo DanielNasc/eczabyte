@@ -1,0 +1,6 @@
+[submodule "eczabyte-front"]
+	path = eczabyte-front
+	url = git@github.com:DanielNasc/eczabyte-front.git
+[submodule "eczabyte-back"]
+	path = eczabyte-back
+	url = git@github.com:DanielNasc/eczabyte-back.git
